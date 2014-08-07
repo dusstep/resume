@@ -1,0 +1,102 @@
+
+body {
+	background-image: url("http://www.4mlab.com/images/escheresque.png");
+	background-repeat: repeat;
+	font-family: 'Open Sans';
+	color: #95a5a6;
+	margin: 0;
+}
+
+h3 {
+	border-bottom: 3px solid #95a5a6;
+	background-color: #2c3e50;
+	padding: 0px 0px 10px 10px;
+	color: #bcbcc4;
+	letter-spacing: 2px;
+}
+
+h4 {
+	color: #7f8c8d;
+}
+
+hr {
+    border: 0;
+    height: 0;
+    border-top: 1px solid #999;
+}
+
+a:link {
+	color: #f39c12;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #f1c40f;
+}
+
+a:hover {
+	color: #ed56e3;
+}
+
+#container {
+	position: relative;
+	border: 3px dashed #bdc3c7;
+	padding: 20px;
+	width: 960px;
+	background-color: #ecf0f1;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0;
+}
+
+#header {
+	border-bottom: 3px solid #ed56e3;
+	background-color: #2c3e50;
+	font-family: 'Open Sans';
+	letter-spacing: 4px;
+	padding: 50px 20px 15px 20px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 15px;
+	text-align: center;
+
+}
+
+#header h1 {
+	font-size: 3em;
+	text-transform: uppercase;
+	font-weight: 300;
+	letter-spacing: 4px;
+	color: #aeff58;
+
+}
+
+#header p {
+	padding-bottom: 25px;
+	color: #bcbcc4;
+}
+
+img {
+	display: inline;
+	padding: 0px 25px;
+	margin: 0px;
+	vertical-align: middle;
+
+}
+
+footer {
+	background-color: #2c3e50;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+footer p {
+	color: #aeff58;
+	vertical-align: middle;
+	padding-top: 15px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	width: 960px;
+	height: 50px;
+}
